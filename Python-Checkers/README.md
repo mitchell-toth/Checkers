@@ -1,5 +1,7 @@
 # Python Checkers
-Checkers with automatic and manual playing
+Checkers with automatic and manual playing.
+
+Built incrementally in Fall 2018 during an introductory Computational Problem Solving course (COS120) at Taylor University.
 
 # Players
 Player 1 is at the top of the board, while Player 2 is at the bottom. There are different player options, including:
@@ -10,6 +12,7 @@ Player 1 is at the top of the board, while Player 2 is at the bottom. There are 
 Where Px is either "P1" or "P2". 
 
 To change the player type, rename the desired file to be Px (either "P1" or "P2").
+
 The main program looks for files named P1 and P2.
 
 # Tests
